@@ -1,5 +1,6 @@
 # Davidium Browser
-# DOWNLOAD IT [HERE](https://drive.google.com/drive/folders/1O7_2Ut3h-RZFpbxUHK4aTRnM8b8R-0Wa?usp=sharing) (Install all of the files, not just the EXE! For it to work properly, all the files must be in the same directory. Do not mess with the other files except the home.html, unless you know what you're doing!)
+# DOWNLOAD IT [HERE](https://drive.google.com/drive/folders/1O7_2Ut3h-RZFpbxUHK4aTRnM8b8R-0Wa?usp=sharing) (Install all of the files, not just the EXE!)
+For it to work properly, all the files must be in the same directory. Do not mess with the other files except the home.html, unless you know what you're doing!
 
 
 
