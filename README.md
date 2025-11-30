@@ -1,7 +1,7 @@
 # Davidium Browser
 
 
-DOWNLOAD IT AT: https://davidium.rf.gd
+DOWNLOAD IT AT: https://theepicdavid.rf.gd
 
 Davidium Browser is a custom Python browser built with PyQt5 and QtWebEngine.  
 It features a custom home page, a Google search bar inside the app, and a sleek GUI similar to Chrome/Firefox.
