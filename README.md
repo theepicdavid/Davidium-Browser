@@ -1,11 +1,10 @@
 # Davidium Browser
-
-# DOWNLOAD IT [HERE](https://drive.google.com/drive/folders/1O7_2Ut3h-RZFpbxUHK4aTRnM8b8R-0Wa?usp=sharing)
+# DOWNLOAD IT [HERE](https://drive.google.com/drive/folders/1O7_2Ut3h-RZFpbxUHK4aTRnM8b8R-0Wa?usp=sharing) (Install all of the files, not just the EXE! For it to work properly, all the files must be in the same directory. Do not mess with the other files except the home.html, unless you know what you're doing!)
 
 
 
 Davidium Browser is a custom Python browser built with PyQt5 and QtWebEngine.  
-It features a custom home page, a Google search bar inside the app, and a sleek GUI similar to Chrome/Firefox.
+It features a custom home page, a search bar inside the app, etc 
 
 ---
 
