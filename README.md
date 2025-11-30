@@ -18,8 +18,8 @@ It features a custom home page, a Google search bar inside the app, and a sleek 
 
 ## Getting Started
 
-1. Download the **Davidium**  zip.  
-2. Make sure `home.html` is in the same folder as `Davidium.exe`.  
+1.Download the **Davidium** folder
+2. Make sure `home.html` and `_internal` are in the same folder as `Davidium.exe`.  
 3. Run `Davidium.exe` to launch the browser.
 
 ---
@@ -28,3 +28,4 @@ It features a custom home page, a Google search bar inside the app, and a sleek 
 
 - `Davidium.exe` — the browser executable  
 - `home.html` — the home page of the browser
+- `_internals` - the **NEEDED** files for the app to run
