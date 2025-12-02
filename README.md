@@ -15,12 +15,14 @@ It features a custom home page, a search bar inside the app, etc
 - Customizable home page (`home.html`)  
 - Lightweight and portable  
 
----
+---<img width="1194" height="827" alt="home" src="https://github.com/user-attachments/assets/16375097-8795-455e-9f24-f53f07356d6e" />
+
 
 ## Getting Started
 
 1.Download the **Davidium** folder
-2. Make sure `home.html` and `_internal` are in the same folder as `Davidium.exe`.  
+2. Make sure `home.html` and `_internal` are in the same folder as `Davidium.exe`.  <img width="1202" height="837" alt="photo3" src="https://github.com/user-attachments/assets/e6d1b8ed-9eb5-49a8-8ef1-39e0b9a130b3" />
+
 3. Run `Davidium.exe` to launch the browser.
 
 ---
